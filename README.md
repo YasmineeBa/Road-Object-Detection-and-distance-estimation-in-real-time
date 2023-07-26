@@ -6,4 +6,4 @@ Furthermore, we developed two different models for estimating the absolute dista
 <img src="./imgintrodetection.jpg" alt="usthb" title="usthb" width="530" height="400">
 
 ## Here is the link of our work wich is published in an international Visual Computing Magazine:
-link: https://perso.usthb.dz/~slarabi/pdf2/Visual%20Computing3_7.pdf
+link: <a href="https://perso.usthb.dz/~slarabi/pdf2/Visual%20Computing3_7.pdf">
